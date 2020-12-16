@@ -1,0 +1,12 @@
+{
+  "name": "top_navi",
+  "displayName": "top_navi",
+  "expo": {
+    "name": "top_navi",
+    "slug": "top_navi",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
